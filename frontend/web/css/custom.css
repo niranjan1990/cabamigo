@@ -1,0 +1,35 @@
+#screen{
+    background-image: url("/img/la1.jpg");
+    background-repeat:no-repeat;
+    background-position:center center;
+    background-attachment: fixed;
+    background-size: cover;
+   /* background-color: #464646;*/
+    position: relative;
+    height: 500px;
+    width: 100%;
+}
+#screen h2{
+    margin: 345px 140px -22px;
+    color: #ffffff;
+}
+#registration {
+    background-color:black;
+    height: 300px;
+    width: 100%;
+}
+#about{
+    position: relative;
+    background-color: #f05f40;
+    width: 100%;
+    height: 400px;
+}
+#about p{
+    color: white;
+    font-family: "Times New Roman", serif;
+    font-size: 22px;
+    margin: 55px 40px -22px;
+}
+#page{
+    background-color: black;
+}
